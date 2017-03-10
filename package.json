@@ -1,0 +1,23 @@
+{
+  "name": "gulp-glslify",
+  "version": "0.1.0",
+  "description": "glslify gulp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/steel1990/gulp-glslify.git"
+  },
+  "keywords": [
+    "gulp",
+    "glslify"
+  ],
+  "author": "lbbsteel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steel1990/gulp-glslify/issues"
+  },
+  "homepage": "https://github.com/steel1990/gulp-glslify#readme"
+}
