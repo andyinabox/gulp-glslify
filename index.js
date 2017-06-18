@@ -10,7 +10,6 @@ module.exports = (options = {}) => {
 
         // get raw flag
         var raw = options.raw;
-        delete options.raw;
         
         var content = String(file.contents);
         options.basedir = options.basedir || path.dirname(file.path);
